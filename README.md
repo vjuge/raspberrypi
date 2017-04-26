@@ -12,7 +12,10 @@ if dongle is not detected :
     $ lsusb
     <doesn't give any results>
 
-That means you need to install the driver :
+That means you need to install the driver !
+
+### Driver installation
+
 https://raspberrypi.stackexchange.com/questions/54716/raspberry-1-no-wifi-dongle-detected-tp-link-tl-wn823n
 
 You can download from the constructor, but you'll need to compile it, and so you need the linux kernels to do that. 
